@@ -1,0 +1,9 @@
+C:\Users\Učenik 4\source\repos\prosjekOcjena\prosjekOcjena\obj\Debug\prosjekOcjena.csprojAssemblyReference.cache
+C:\Users\Učenik 4\source\repos\prosjekOcjena\prosjekOcjena\obj\Debug\prosjekOcjena.Form1.resources
+C:\Users\Učenik 4\source\repos\prosjekOcjena\prosjekOcjena\obj\Debug\prosjekOcjena.Properties.Resources.resources
+C:\Users\Učenik 4\source\repos\prosjekOcjena\prosjekOcjena\obj\Debug\prosjekOcjena.csproj.GenerateResource.cache
+C:\Users\Učenik 4\source\repos\prosjekOcjena\prosjekOcjena\bin\Debug\prosjekOcjena.exe.config
+C:\Users\Učenik 4\source\repos\prosjekOcjena\prosjekOcjena\bin\Debug\prosjekOcjena.exe
+C:\Users\Učenik 4\source\repos\prosjekOcjena\prosjekOcjena\bin\Debug\prosjekOcjena.pdb
+C:\Users\Učenik 4\source\repos\prosjekOcjena\prosjekOcjena\obj\Debug\prosjekOcjena.exe
+C:\Users\Učenik 4\source\repos\prosjekOcjena\prosjekOcjena\obj\Debug\prosjekOcjena.pdb
